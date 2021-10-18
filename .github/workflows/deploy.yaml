@@ -1,4 +1,4 @@
-name: Deploy in master
+# name: Deploy in master
 
 # on:
 #   push:
